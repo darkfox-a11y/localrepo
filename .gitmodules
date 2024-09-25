@@ -1,0 +1,3 @@
+[submodule "codecrafters-http-server"]
+	path = codecrafters-http-server
+	url = https://github.com/codecrafters-io/build-your-own-http-server.git
